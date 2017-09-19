@@ -1,17 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,OTE Cinema 1 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/6110.ts
-#EXTINF:-1,OTE Cinema 2 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/6111.ts
-#EXTINF:-1,OTE Sport 1 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2225.ts
-#EXTINF:-1,OTE Sport 2 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2224.ts
-#EXTINF:-1,OTE Sport 3 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2223.ts
-#EXTINF:-1,OTE Sport 4 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2222.ts
+#EXTINF:-1,OTE Cinema 1 FHD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7081.ts
+#EXTINF:-1,OTE Cinema 2 FHD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7082.ts
+#EXTINF:-1,OTE Cinema 3 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7077.ts
+#EXTINF:-1,OTE Cinema 4 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7076.ts
+#EXTINF:-1,Sundance HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7072.ts
+#EXTINF:-1,Village HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7075.ts
+#EXTINF:-1,TLC GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5856.ts
 #EXTINF:-1,OTE Sport 1 HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5702.ts
 #EXTINF:-1,OTE Sport 2 HD GR
@@ -62,61 +64,23 @@ http://sekoiptv.ddns.net:8080/live/ism/ism/5859.ts
 http://sekoiptv.ddns.net:8080/live/ism/ism/5860.ts
 #EXTINF:-1,Discovery Science GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5857.ts
+#EXTINF:-1,DTX GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5858.ts
 #EXTINF:-1,Fishing Ellinika GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5854.ts
 #EXTINF:-1,Hunting Ellinika GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5855.ts
 
-#EXTINF:-1,OTE Cinema 1 FHD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7081.ts
-#EXTINF:-1,OTE Cinema 2 FHD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7082.ts
-#EXTINF:-1,OTE Cinema 3 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7077.ts
-#EXTINF:-1,OTE Cinema 4 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7076.ts
-#EXTINF:-1,Sundance HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7072.ts
-#EXTINF:-1,Village HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7075.ts
-#EXTINF:-1,TLC GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5856.ts
-#EXTINF:-1,Fox HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7074.ts
-#EXTINF:-1,Fox Life HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7073.ts
-
-#EXTINF:-1,NovaCinema 1 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5881.ts
-#EXTINF:-1,NovaCinema 2 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7080.ts
-#EXTINF:-1,NovaCinema 3 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7079.ts
-#EXTINF:-1,NovaCinema 4 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7078.ts
-#EXTINF:-1,NovaSports 1 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7071.ts
-#EXTINF:-1,Nova Sport 1 HD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5880.ts
-#EXTINF:-1,NovaSports 2 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7070.ts
-#EXTINF:-1,Antenna Sat USA (Nova USA) FHD GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/7066.ts
-#EXTINF:-1,Toronto TV GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5826.ts
-
 #EXTINF:-1,Nickelodeon GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2196.ts
-#EXTINF:-1,Disney Channel GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5853.ts
 #EXTINF:-1,Disney Junior GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5852.ts
+#EXTINF:-1,Disney Channel GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5853.ts
 #EXTINF:-1,Disney XD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5851.ts
 #EXTINF:-1,Smile GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2200.ts
-#EXTINF:-1,DTX GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5858.ts
 #EXTINF:-1,Baby TV GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5850.ts
 #EXTINF:-1,Zouzounia GR
@@ -283,7 +247,23 @@ http://sekoiptv.ddns.net:8080/live/ism/ism/5820.ts
 http://sekoiptv.ddns.net:8080/live/ism/ism/5819.ts
 #EXTINF:-1,RISE GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5838.ts
+#EXTINF:-1,Toronto TV GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5826.ts
 
-
-
+#EXTINF:-1,NovaCinema 1 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5881.ts
+#EXTINF:-1,NovaCinema 2 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7080.ts
+#EXTINF:-1,NovaCinema 3 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7079.ts
+#EXTINF:-1,NovaCinema 4 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7078.ts
+#EXTINF:-1,NovaSports 1 GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7071.ts
+#EXTINF:-1,Nova Sport 1 HD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/5880.ts
+#EXTINF:-1,NovaSports 2 GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7070.ts
+#EXTINF:-1,Antenna Sat USA (Nova USA) FHD GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/7066.ts
 
