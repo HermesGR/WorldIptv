@@ -147,39 +147,29 @@ http://sekoiptv.ddns.net:8080/live/ism/ism/2215.ts
 http://sekoiptv.ddns.net:8080/live/ism/ism/2214.ts
 #EXTINF:-1,ERT 3 GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2213.ts
-#EXTINF:-1,Ant 1 GR
+#EXTINF:-1,Ant 1 SD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2239.ts
 #EXTINF:-1,ANT1 HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5834.ts
-#EXTINF:-1,Antena 1 GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2218.ts
-#EXTINF:-1,Alpha GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2219.ts
 #EXTINF:-1,Alpha HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5833.ts
-#EXTINF:-1,4E Star GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2238.ts
-#EXTINF:-1,Star GR
+#EXTINF:-1,Star SD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2199.ts
 #EXTINF:-1,Star HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5831.ts
-#EXTINF:-1,Skai GR
+#EXTINF:-1,Skai SD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2201.ts
 #EXTINF:-1,Skai HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5832.ts
-#EXTINF:-1,E! GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/2216.ts
-#EXTINF:-1,E GR
-http://sekoiptv.ddns.net:8080/live/ism/ism/5825.ts
-#EXTINF:-1,Epsilon GR
+#EXTINF:-1,Epsilon SD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5829.ts
 #EXTINF:-1,Epsilon HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5828.ts
 #EXTINF:-1,EuroNews GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2230.ts
-#EXTINF:-1,Makedonia GR
+#EXTINF:-1,Makedonia SD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2208.ts
-#EXTINF:-1,Makedonia TV HD GR
+#EXTINF:-1,Makedonia HD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/5830.ts
 #EXTINF:-1,Mega GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2235.ts
@@ -191,6 +181,8 @@ http://sekoiptv.ddns.net:8080/live/ism/ism/2210.ts
 http://sekoiptv.ddns.net:8080/live/ism/ism/2209.ts
 #EXTINF:-1,Blue Sky GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2217.ts
+#EXTINF:-1,4E Star GR
+http://sekoiptv.ddns.net:8080/live/ism/ism/2238.ts
 #EXTINF:-1,4E GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/2221.ts
 #EXTINF:-1,Action24 GR
