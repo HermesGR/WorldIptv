@@ -1,7 +1,8 @@
 #EXTM3U
 
+
 #EXTINF:-1,##########   GREECE   ##########
-#EXTINF:-1,OTE Cinema 1 FHD GR
+#EXTINF:-1, tvg-name="OTE Cinema 1 FHD GR"  tvg-logo="https://yt3.ggpht.com/-U-K5VyvGeZU/AAAAAAAAAAI/AAAAAAAAAAA/uyY85IuHZck/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
 http://sekoiptv.ddns.net:8080/live/ism/ism/7081.ts
 #EXTINF:-1,OTE Cinema 2 FHD GR
 http://sekoiptv.ddns.net:8080/live/ism/ism/7082.ts
