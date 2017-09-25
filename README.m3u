@@ -61,9 +61,11 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/2836.ts
 #EXTINF:-1, Eurosport 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/3344.ts
 
+#EXTINF:-1, Eurosport 2  
+http://217.23.1.3:6969/live/aaron123/aaron123/3343.ts
 
-
-
+#EXTINF:-1, ANIMAL PLANET HD  
+http://217.23.1.3:6969/live/aaron123/aaron123/11745.ts
 
 #EXTINF:-1, National Geographic HD 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2823.ts
@@ -73,6 +75,15 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/1422.ts
 
 #EXTINF:-1, Nat Geo Wild HD  
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2824.ts
+
+#EXTINF:-1, DISCOVERY CHANNEL  
+http://217.23.1.3:6969/live/aaron123/aaron123/11743.ts
+
+#EXTINF:-1, DISCOVERY ID  
+http://217.23.1.3:6969/live/aaron123/aaron123/11741.ts
+
+#EXTINF:-1, DISCOVERY SCIENCE HD  
+http://217.23.1.3:6969/live/aaron123/aaron123/11739.ts
 
 #EXTINF:-1, Discovery Science HD  
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2828.ts
@@ -101,12 +112,11 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/859.ts
 #EXTINF:-1, Discovery Sci HD  
 http://185.2.83.60:8000/live/190001659542687/190001659542687/858.ts
 
-
-
-
-
 #EXTINF:-1, Nickelodeon HD  
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2833.ts
+
+#EXTINF:-1, Nickelodeon  
+http://217.23.1.3:6969/live/aaron123/aaron123/3648.ts
 
 #EXTINF:-1, Disney HD  
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2830.ts
@@ -130,10 +140,23 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/413.ts
 http://217.23.1.3:6969/live/aaron123/aaron123/3653.ts
 
 
+#EXTINF:-1, Ert HD  
+http://217.23.1.3:6969/live/aaron123/aaron123/3670.ts
 
+#EXTINF:-1, ERT 1  
+http://217.23.1.3:6969/live/aaron123/aaron123/3347.ts
 
-#EXTINF:-1, EPT 2 
+#EXTINF:-1, ERT2  
+http://217.23.1.3:6969/live/aaron123/aaron123/3345.ts
+
+#EXTINF:-1,EPT 2 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/866.ts
+
+#EXTINF:-1, ANT1  
+http://185.2.83.60:8000/live/190001659542687/190001659542687/856.ts
+
+#EXTINF:-1, Macedonia TV HD  
+http://185.2.83.60:8000/live/190001659542687/190001659542687/1418.ts
 
 #EXTINF:-1, Hellas TV 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/1408.ts
@@ -188,12 +211,6 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/1412.ts
 
 #EXTINF:-1, Cannali Musiki 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/1416.ts
-
-#EXTINF:-1, ANT1  
-http://185.2.83.60:8000/live/190001659542687/190001659542687/856.ts
-
-#EXTINF:-1, Macedonia TV HD  
-http://185.2.83.60:8000/live/190001659542687/190001659542687/1418.ts
 
 #EXTINF:-1, Nea TV 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/875.ts
@@ -288,9 +305,6 @@ http://185.2.83.60:8000/live/190001659542687/190001659542687/2870.ts
 #EXTINF:-1, Super TV 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/870.ts
 
-#EXTINF:-1, Sky Fox HD  
-http://185.2.83.60:8000/live/190001659542687/190001659542687/861.ts
-
 #EXTINF:-1, GR: Magic tv 
 http://185.2.83.60:8000/live/190001659542687/190001659542687/2862.ts
 
@@ -360,9 +374,6 @@ http://217.23.1.3:6969/live/aaron123/aaron123/3649.ts
 #EXTINF:-1, Omega TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3340.ts
 
-#EXTINF:-1, Nickelodeon  
-http://217.23.1.3:6969/live/aaron123/aaron123/3648.ts
-
 #EXTINF:-1, New TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3321.ts
 
@@ -396,206 +407,261 @@ http://217.23.1.3:6969/live/aaron123/aaron123/3356.ts
 #EXTINF:-1, Euronews  
 http://217.23.1.3:6969/live/aaron123/aaron123/3316.ts
 
-#EXTINF:-1, ERT2  
-http://217.23.1.3:6969/live/aaron123/aaron123/3345.ts
-
-#EXTINF:-1, Ert HD  
-http://217.23.1.3:6969/live/aaron123/aaron123/3670.ts
-
-#EXTINF:-1, ERT 1  
-http://217.23.1.3:6969/live/aaron123/aaron123/3347.ts
-
 #EXTINF:-1, E  
 http://217.23.1.3:6969/live/aaron123/aaron123/3348.ts
 
 #EXTINF:-1, DIAVATA TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3317.ts
 
- Channel 9  
+#EXTINF:-1, Channel 9  
 http://217.23.1.3:6969/live/aaron123/aaron123/3668.ts
- BLUE SKY  
+
+#EXTINF:-1, BLUE SKY  
 http://217.23.1.3:6969/live/aaron123/aaron123/3329.ts
- Art  
+
+#EXTINF:-1, Art  
 http://217.23.1.3:6969/live/aaron123/aaron123/3332.ts
- Apeiro TV  
+
+#EXTINF:-1, Apeiro TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3359.ts
- Ant1 HD  
+
+#EXTINF:-1, Ant1 HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/3665.ts
- SBC  
+
+#EXTINF:-1, SBC  
 http://217.23.1.3:6969/live/aaron123/aaron123/3313.ts
 
- SAMIAKI 
+#EXTINF:-1, SAMIAKI 
 http://217.23.1.3:6969/live/aaron123/aaron123/3314.ts
 
- OMEGA  [1008x576]
+#EXTINF:-1, OMEGA  [1008x576]
 http://217.23.1.3:6969/live/aaron123/aaron123/3315.ts
 
- 4E Star  
+#EXTINF:-1, 4E Star  
 http://217.23.1.3:6969/live/aaron123/aaron123/3337.ts
 
- 4E  
+#EXTINF:-1, 4E  
 http://217.23.1.3:6969/live/aaron123/aaron123/3336.ts
 
- EPIRUS TV1  
+#EXTINF:-1, EPIRUS TV1  
 http://217.23.1.3:6969/live/aaron123/aaron123/3357.ts
 
- Ant1 Cyprus  
+#EXTINF:-1, Ant1 Cyprus  
 http://217.23.1.3:6969/live/aaron123/aaron123/3663.ts
 
- MTVeece  
+#EXTINF:-1, MTVeece  
 http://217.23.1.3:6969/live/aaron123/aaron123/3646.ts
- ANIMAL PLANET HD  
-http://217.23.1.3:6969/live/aaron123/aaron123/11745.ts
- Mega  
+
+#EXTINF:-1, Mega  
 http://217.23.1.3:6969/live/aaron123/aaron123/3341.ts
- CANNALI MUSIC 
+
+#EXTINF:-1, CANNALI MUSIC 
 http://217.23.1.3:6969/live/aaron123/aaron123/11746.ts
- CAPITAL CYPRUS  
+
+#EXTINF:-1, CAPITAL CYPRUS  
 http://217.23.1.3:6969/live/aaron123/aaron123/11712.ts
- CBS REALITY  
+
+#EXTINF:-1, CBS REALITY  
 http://217.23.1.3:6969/live/aaron123/aaron123/11744.ts
 
- Makedonia TV  
+#EXTINF:-1, Makedonia TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3641.ts
- DISCOVERY CHANNEL  
-http://217.23.1.3:6969/live/aaron123/aaron123/11743.ts
- DISCOVERY ID  
-http://217.23.1.3:6969/live/aaron123/aaron123/11741.ts
- DISCOVERY SCIENCE HD  
-http://217.23.1.3:6969/live/aaron123/aaron123/11739.ts
- KRITI TV 
-http://217.23.1.3:6969/live/aaron123/aaron123/3323.ts
- DISNEY CHANNEL  
+
+#EXTINF:-1, KRITI TV 
+http://217.23.1.3:6969/live/aaron123/aaron123/3323.t
+#EXTINF:-1, DISNEY CHANNEL  
 http://217.23.1.3:6969/live/aaron123/aaron123/11707.ts
- DISNEY JUNIOR  
+
+#EXTINF:-1, DISNEY JUNIOR  
 http://217.23.1.3:6969/live/aaron123/aaron123/11706.ts
- FISHING TV  [1008x576]
+
+#EXTINF:-1,FISHING TV  [1008x576]
 http://217.23.1.3:6969/live/aaron123/aaron123/11728.ts
- GREECE  
+
+#EXTINF:-1, GREECE  
 http://217.23.1.3:6969/live/aaron123/aaron123/11730.ts
- Extra Channel  http://217.23.1.3:6969/live/aaron123/aaron123/3636.ts
- VOULI  http://217.23.1.3:6969/live/aaron123/aaron123/3306.ts
- GSTREAMS DOCUMENTARY 4  
+
+#EXTINF:-1, Extra Channel  
+http://217.23.1.3:6969/live/aaron123/aaron123/3636.ts
+
+#EXTINF:-1, VOULI  
+http://217.23.1.3:6969/live/aaron123/aaron123/3306.ts
+
+#EXTINF:-1, GSTREAMS DOCUMENTARY 4  
 http://217.23.1.3:6969/live/aaron123/aaron123/11732.ts
- GSTREAMS MUSIC  VIDEO CLIP 3  
+
+#EXTINF:-1, GSTREAMS MUSIC  VIDEO CLIP 3  
 http://217.23.1.3:6969/live/aaron123/aaron123/11749.ts
- GSTREAMS MUSIC VIDEO CLIP 1  
+
+#EXTINF:-1, GSTREAMS MUSIC VIDEO CLIP 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/11751.ts
- Ept 2  
+
+#EXTINF:-1, Ept 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/3674.ts
- HISTORY HD  
+
+#EXTINF:-1, HISTORY HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11736.ts
- HUNTER TV  [1008x576]
+
+#EXTINF:-1, HUNTER TV  [1008x576]
 http://217.23.1.3:6969/live/aaron123/aaron123/11729.ts
- Astra  
+
+#EXTINF:-1, Astra  
 http://217.23.1.3:6969/live/aaron123/aaron123/3331.ts
- MOVIES GR SUBS 1 
+
+#EXTINF:-1, MOVIES GR SUBS 1 
 http://217.23.1.3:6969/live/aaron123/aaron123/11762.ts
- Skai  
+
+#EXTINF:-1, Skai  
 http://217.23.1.3:6969/live/aaron123/aaron123/3338.ts
- MOVIES GR SUBS 3  
+
+#EXTINF:-1, MOVIES GR SUBS 3  
 http://217.23.1.3:6969/live/aaron123/aaron123/11760.ts
- NAT GEO WILD  
+
+#EXTINF:-1, NAT GEO WILD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11727.ts
- NATIONAL GEOGRAFIC HD  
+
+#EXTINF:-1, NATIONAL GEOGRAFIC HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11726.ts
- OTE CINEMA 2  
-http://217.23.1.3:6969/live/aaron123/aaron123/11767.ts
- ANT1  
+
+#EXTINF:-1, ANT1  
 http://217.23.1.3:6969/live/aaron123/aaron123/3349.ts
- Alpha  
+
+#EXTINF:-1, Alpha  
 http://217.23.1.3:6969/live/aaron123/aaron123/3350.ts
- NOVA  
+
+#EXTINF:-1, NOVA  
 http://217.23.1.3:6969/live/aaron123/aaron123/3354.ts
- ACTION 24  
+
+#EXTINF:-1, ACTION 24  
 http://217.23.1.3:6969/live/aaron123/aaron123/3335.ts
- RIK 1  
+
+#EXTINF:-1, RIK 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/11716.ts
- RIK 2  
+
+ #EXTINF:-1,RIK 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/11715.ts
- RIK SAT  
+
+#EXTINF:-1, RIK SAT  
 http://217.23.1.3:6969/live/aaron123/aaron123/11717.ts
- NEA  
+
+#EXTINF:-1, NEA  
 http://217.23.1.3:6969/live/aaron123/aaron123/3319.ts
- SiGMA CYPRUS  [720x560]
+
+#EXTINF:-1, SiGMA CYPRUS  [720x560]
 http://217.23.1.3:6969/live/aaron123/aaron123/11713.ts
- TRAVEL CHANNEL HD  
+
+#EXTINF:-1, TRAVEL CHANNEL HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11724.ts
- VIASAT HISTORY  
+
+#EXTINF:-1, VIASAT HISTORY  
 http://217.23.1.3:6969/live/aaron123/aaron123/11723.ts
- VILLAGE CINEMA HD  http://217.23.1.3:6969/live/aaron123/aaron123/11763.ts
- DISCOVERY HD SHOWCASE  
+
+#EXTINF:-1, VILLAGE CINEMA HD  
+http://217.23.1.3:6969/live/aaron123/aaron123/11763.ts
+
+#EXTINF:-1, DISCOVERY HD SHOWCASE  
 http://217.23.1.3:6969/live/aaron123/aaron123/11742.ts
- DISCOVERY ID EXTRA  
+
+#EXTINF:-1, DISCOVERY ID EXTRA  
 http://217.23.1.3:6969/live/aaron123/aaron123/11740.ts
- KONTRA TV  
+
+#EXTINF:-1, KONTRA TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3324.ts
- GSTREAMS DOCUMENTARY 2  
+
+#EXTINF:-1, GSTREAMS DOCUMENTARY 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/11733.ts
- GSTREAMS MUSIC VIDEO CLIP 2 
+
+#EXTINF:-1, GSTREAMS MUSIC VIDEO CLIP 2 
 http://217.23.1.3:6969/live/aaron123/aaron123/11750.ts
- Ept 1  
+
+#EXTINF:-1, Ept 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/3672.ts
- MAD CY  
+
+#EXTINF:-1, MAD CY  
 http://217.23.1.3:6969/live/aaron123/aaron123/11709.ts
- Axeloos TV  
+
+#EXTINF:-1, Axeloos TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/3330.ts
- PLUS CYPRUS  [704x560]
+
+#EXTINF:-1, PLUS CYPRUS  [704x560]
 http://217.23.1.3:6969/live/aaron123/aaron123/11710.ts
- SUNDANCE CHANNEL HD  
+
+#EXTINF:-1, SUNDANCE CHANNEL HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11725.ts
- BABY TV  
+
+#EXTINF:-1, BABY TV  
 http://217.23.1.3:6969/live/aaron123/aaron123/11708.ts
- Mad TV  http://217.23.1.3:6969/live/aaron123/aaron123/3640.ts
- EXTRA CYPRUS  http://217.23.1.3:6969/live/aaron123/aaron123/11711.ts
- EXTRA  
+
+#EXTINF:-1, Mad TV 
+http://217.23.1.3:6969/live/aaron123/aaron123/3640.ts
+
+#EXTINF:-1, EXTRA CYPRUS  
+http://217.23.1.3:6969/live/aaron123/aaron123/11711.ts
+
+#EXTINF:-1, EXTRA  
 http://217.23.1.3:6969/live/aaron123/aaron123/3326.ts
- Eurosport 2  
-http://217.23.1.3:6969/live/aaron123/aaron123/3343.ts
- DIKTYO  
+
+#EXTINF:-1, DIKTYO  
 http://217.23.1.3:6969/live/aaron123/aaron123/3358.ts
- APT  
+
+#EXTINF:-1, APT  
 http://217.23.1.3:6969/live/aaron123/aaron123/3673.ts
- OTE CINEMA 3  
-http://217.23.1.3:6969/live/aaron123/aaron123/11766.ts
- DISCOVERY TURBO EXTRA  
+
+#EXTINF:-1, DISCOVERY TURBO EXTRA  
 http://217.23.1.3:6969/live/aaron123/aaron123/11738.ts
- FASHION TV HD  
+
+#EXTINF:-1, FASHION TV HD  
 http://217.23.1.3:6969/live/aaron123/aaron123/11737.ts
- GSTREAMS DOCUMENTARY 1  
+
+#EXTINF:-1, GSTREAMS DOCUMENTARY 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/11734.ts
- MOVIES GR SUBS 2  
+
+#EXTINF:-1,#EXTINF:-1,#EXTINF:-1, MOVIES GR SUBS 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/11761.ts
- TV Gold  http://217.23.1.3:6969/live/aaron123/aaron123/3308.ts
- AB Channel  
+
+#EXTINF:-1, TV Gold  
+http://217.23.1.3:6969/live/aaron123/aaron123/3308.ts
+
+#EXTINF:-1, AB Channel  
 http://217.23.1.3:6969/live/aaron123/aaron123/3659.ts
- Best Movies 3 
+
+#EXTINF:-1, Best Movies 3 
 http://217.23.1.3:6969/live/aaron123/aaron123/12718.ts
- Best Movies 4 
+
+#EXTINF:-1, Best Movies 4 
 http://217.23.1.3:6969/live/aaron123/aaron123/12717.ts
- Best Movies 6  
+
+#EXTINF:-1, Best Movies 6  
 http://217.23.1.3:6969/live/aaron123/aaron123/12715.ts
- Greek Cinema 80s 3  
+
+#EXTINF:-1, Greek Cinema 80s 3  
 http://217.23.1.3:6969/live/aaron123/aaron123/12712.ts
- Greek Cinema 80s 1  
+
+#EXTINF:-1, Greek Cinema 80s 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/12714.ts
- Greek Old Movies 1  
+
+#EXTINF:-1, Greek Old Movies 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/12710.ts
- Greek Mix  
+
+#EXTINF:-1, Greek Mix  
 http://217.23.1.3:6969/live/aaron123/aaron123/12711.ts
- Greek Old Movies 3  
+
+#EXTINF:-1, Greek Old Movies 3  
 http://217.23.1.3:6969/live/aaron123/aaron123/12708.ts
- Kids 1  
+
+#EXTINF:-1, Kids 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/12705.ts
- Kids 3  
+
+#EXTINF:-1, Kids 3  
 http://217.23.1.3:6969/live/aaron123/aaron123/12703.ts
- Best Movies 5 
+
+#EXTINF:-1, Best Movies 5 
 http://217.23.1.3:6969/live/aaron123/aaron123/12716.ts
- Greek Cinema 80s 2  
+
+#EXTINF:-1, Greek Cinema 80s 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/12713.ts
- Greek Series 1  
-http://217.23.1.3:6969/live/aaron123/aaron123/12707.ts
- Kids 2  
+
+#EXTINF:-1,#EXTINF:-1,#EXTINF:-1,#EXTINF:-1,#EXTINF:-1,#EXTINF:-1, Kids 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/12704.ts
  Kids 5  [704x400]
 http://217.23.1.3:6969/live/aaron123/aaron123/12701.ts
@@ -607,18 +673,18 @@ http://217.23.1.3:6969/live/aaron123/aaron123/12706.ts
 http://217.23.1.3:6969/live/aaron123/aaron123/12709.ts
  Best Movies 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/12720.ts
- Cinemaeek 1  
+#EXTINF:-1, Cinema Greek 1  
 http://217.23.1.3:6969/live/aaron123/aaron123/12722.ts
-OTE CINEMA 1  
-http://217.23.1.3:6969/live/aaron123/aaron123/11768.ts
- Cinemaeek 2  
+#EXTINF:-1, Cinema Greek 2  
 http://217.23.1.3:6969/live/aaron123/aaron123/12721.ts
- ZOUGL@  
+#EXTINF:-1, ZOUGLA 
 http://217.23.1.3:6969/live/Damian/Damian/3305.ts
- Vouli TV  http://217.23.1.3:6969/live/Damian/Damian/3657.ts
- Vergina TV  
+#EXTINF:-1, Vouli TV  
+http://217.23.1.3:6969/live/Damian/Damian/3657.ts
+#EXTINF:-1, Vergina TV  
 http://217.23.1.3:6969/live/Damian/Damian/3333.ts
- TV Gold  http://217.23.1.3:6969/live/Damian/Damian/3308.ts
+#EXTINF:-1,#EXTINF:-1, TV Gold  
+http://217.23.1.3:6969/live/Damian/Damian/3308.ts
  TRT  
 http://217.23.1.3:6969/live/Damian/Damian/3309.ts
  Thraki TV  
@@ -705,7 +771,8 @@ http://217.23.1.3:6969/live/Damian/Damian/11712.ts
 http://217.23.1.3:6969/live/Damian/Damian/11744.ts
  Krhth TV 
 http://217.23.1.3:6969/live/Damian/Damian/3639.ts
- COSMOTE VILLAGE CINEMA  http://217.23.1.3:6969/live/Damian/Damian/11764.ts
+ COSMOTE VILLAGE CINEMA  
+http://217.23.1.3:6969/live/Damian/Damian/11764.ts
  DISCOVERY ID  
 http://217.23.1.3:6969/live/Damian/Damian/11741.ts
  VOULI  http://217.23.1.3:6969/live/Damian/Damian/3306.ts
@@ -715,7 +782,8 @@ http://217.23.1.3:6969/live/Damian/Damian/3326.ts
 http://217.23.1.3:6969/live/Damian/Damian/3343.ts
  DISNEY JUNIOR  
 http://217.23.1.3:6969/live/Damian/Damian/11706.ts
- EXTRA CYPRUS  http://217.23.1.3:6969/live/Damian/Damian/11711.ts
+ EXTRA CYPRUS  
+http://217.23.1.3:6969/live/Damian/Damian/11711.ts
  FASHION TV HD  
 http://217.23.1.3:6969/live/Damian/Damian/11737.ts
  FISHING TV  [1008x576]
